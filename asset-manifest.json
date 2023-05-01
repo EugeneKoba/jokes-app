@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jokes-app/static/css/main.f3539f2d.css",
+    "main.js": "/jokes-app/static/js/main.896918a1.js",
+    "static/media/lemonade_stand.otf": "/jokes-app/static/media/lemonade_stand.2aa712acb71d491e8e06.otf",
+    "index.html": "/jokes-app/index.html",
+    "main.f3539f2d.css.map": "/jokes-app/static/css/main.f3539f2d.css.map",
+    "main.896918a1.js.map": "/jokes-app/static/js/main.896918a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3539f2d.css",
+    "static/js/main.896918a1.js"
+  ]
+}
