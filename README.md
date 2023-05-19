@@ -1,6 +1,6 @@
 ## No-Pun-Intended Jokes Generator
 
-I make a Jokes App Generator from the 'No Pun Intended' Book, originating from 'The Last Of Us' TV Show & Video-Game.
+I made a Jokes App Generator from the 'No Pun Intended' Book, originating from 'The Last Of Us' TV Show & Video-Game.
 
 Made with HTML, CSS & React.
 
